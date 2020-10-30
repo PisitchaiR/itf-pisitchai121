@@ -5,6 +5,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gags</title>
+    <style>
+        img{
+            height: 400px;
+            width: 700px
+        }
+    </style>
 </head>
 
 <body>
