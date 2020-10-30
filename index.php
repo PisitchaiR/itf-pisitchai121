@@ -8,6 +8,6 @@
 <body>
     <h1>Welcome to joke</h1>
     <p>พิสิฐไชย เรืองวัฒนาพงษ์ เอ็ม</p>
-    <img src="/img/joke.jpg" alt="">
+    <img src="/joke.jpg" alt="">
 </body>
 </html>
