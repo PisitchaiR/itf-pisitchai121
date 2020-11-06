@@ -10,7 +10,7 @@
 
 <body>
     <div class="container-fulid bg-light text-center mt-0 p-2">
-        <h2 class="text-dark">All homework</h1>
+        <h2 class="text-dark">All homework</h2>
     </div>
 
     <div class="w-50 container bg-light mt-5 high">
